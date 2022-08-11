@@ -1,0 +1,33 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: auto;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: #cc9543;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+ul a {
+    font-size: 25px;
+    color: #d5206c;
+    text-decoration: none;
+}
+
+ul a:hover {
+    font-size: 25px;
+    color: #2620d5;
+    text-decoration: none;
+}
+
+ul {
+    font-size: 25px;
+    color: #d5206c;
+    line-height: 32px;
+}
