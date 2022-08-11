@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: auto;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: #cc9543;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+img {
+    border: #cc9543 double 5px;
+    padding: 5px;
+    border-radius: 25px;
+}
