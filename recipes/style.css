@@ -14,8 +14,19 @@ h1 {
     padding-top: 1rem;
 }
 
+h2 {
+    padding: 0;
+    text-decoration: underline;
+}
+
 img {
     border: #cc9543 double 5px;
     padding: 5px;
     border-radius: 25px;
+}
+
+div {
+    background-color: rgba(255, 174, 0, 0.491);
+    padding: 20px;
+    margin: 40px;
 }
